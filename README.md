@@ -58,6 +58,6 @@ I've bought a Petoneer Smartdot to automate playing with my cats using Home Assi
 
 It didn't came with an integration, so I searched for a way to build it myself, but as my knowledge of Python is very basic and I feel way more comfortable with Javascript/Typescript I've built an add-on. That was quite doing the job, but I built it somehow in a wrong way and it was continuously connecting to the Smartdot, thus blocking the Home Assistant bluetooth entirely.
 
-After some months the new Home Assistant Bluetooth integration came out, so I thought I could finally the integration by myself, but lacking time and knowledge of Python, I did not work on it yet.
+After some months the new Home Assistant Bluetooth integration came out, so I thought I could finally build the integration by myself, but lacking time and knowledge of Python, I did not work on it yet.
 
 Therefore, as suggested by [@blackadder](https://github.com/blakadder) (thank you!), I am documenting here the results of my reverse engineering of the protocol, although it's not yet clear to me how the "manual" mode works.
